@@ -23,6 +23,7 @@
 
 ### My Work and projects
     * E-Commerce project
+    * MERN Project
 
 ### Portfolio    
     🔗 [Muhammad Alamzeb's Personal Portfolio Website](https://muhammadalamzeb.github.io/portfolio/)
